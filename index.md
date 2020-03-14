@@ -5,4 +5,3 @@ Welcome to the Pokemon Challenge!
 </p>
 
 
-### The Dataset 
