@@ -1,4 +1,4 @@
-<img class="profile" src="trainer" alt="Picture" />
+<img class="profile" align="center" src="trainer" alt="Picture" />
 
 Vince Catchem is a **famous** Pokemon trainer. Recently he has become very curious with the nature of Pokemon and has hired you, a young budding statistician, to conduct do a research project. 
 
