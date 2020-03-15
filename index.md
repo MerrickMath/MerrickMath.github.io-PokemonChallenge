@@ -1,4 +1,4 @@
-<p align="center"> class="prof" src="https://merrickmath.github.io/merrickmath.github.io-PokemonChallenge/trainer.png" alt="Picture" </p>
+<p align="center"> <img class="prof" src="https://MerrickMath.github.io/MerrickMath.github.io-PythonProject/PythonL.png">   </p>
 
 Vince Catchem is a **famous** Pokemon trainer. Recently he has become very curious with the nature of Pokemon and has hired you, a young budding statistician, to conduct do a research project. 
 
