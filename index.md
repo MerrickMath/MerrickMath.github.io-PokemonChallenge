@@ -2,7 +2,7 @@
 
 Vince Catchem is a **famous** Pokemon trainer. Recently he has become very curious with the nature of Pokemon and has hired you, a young budding statistician, to conduct do a research project. 
 
-Vince has collected data on all 802 types of Pokemon, and has inputted his data into the challenge.csv file. The dataset contains 802 obervations and  variables:
+Vince has collected data on all 802 types of Pokemon, and has inputted his data into the <a href="https://MerrickMath.github.io/MerrickMath.github.io-PokemonProject/challenge.csv"> challenge.csv </a> <br/ file. The dataset contains 802 obervations and  variables:
 * **Name:** Name of Pokemon 
 * **Type:** Type of Pokemon 
 * **Height:** Height of pokemon in **meters**
