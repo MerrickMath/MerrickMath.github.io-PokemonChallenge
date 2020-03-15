@@ -1,3 +1,5 @@
+<img class="profile" src="trainer" alt="Picture" />
+
 Vince Catchem is a **famous** Pokemon trainer. Recently he has become very curious with the nature of Pokemon and has hired you, a young budding statistician, to conduct do a research project. 
 
 Vince has collected data on all 802 types of Pokemon, and has inputted his data into the pokemon.csv file. The dataset contains 802 obervations and  variables:
