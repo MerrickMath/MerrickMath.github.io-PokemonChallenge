@@ -1,6 +1,6 @@
 <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/trainer.png">   </p>
 
-Vince Catchem is a **famous** Pokemon trainer. Recently he has become very curious with the nature of Pokemon and has hired you, a young budding statistician, to conduct do a research project. </br>
+Vince Catchem is a **famous** Pokemon trainer. Recently he has become very curious with the nature of Pokemon and has hired you, a young budding statistician, to conduct do a research project. 
 
 Vince has collected data on all 802 types of Pokemon, and has inputted his data into the <a href="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/challenge.csv"> challenge.csv </a> file. The dataset contains 802 obervations and  variables:
 * **Name:** Name of Pokemon 
