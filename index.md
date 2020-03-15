@@ -37,7 +37,7 @@ Vince has noticed that pokemon come in all different shapes and sizes, he is cur
 Pokemon are released in generations. Vince is curious if there is a significant difference between the attribues of pokemon based on their generation. 
 
 For your report Vince asks that you explore 2 (or more) of these questions. You are also **encouraged** to raise questions on your own that you may answer/explore in your report. Your report may be delivered in **any** format (pdf, word document, video, website, etc.). You will be judged on a 20 point scale made up of two categories:
-* **Mathematical and statistical arguemntation** (10 points)
+* **Mathematical and statistical argumentation** (10 points)
 * **Aesthetic** (10 points)
 
 Good luck, and have fun!
