@@ -2,7 +2,7 @@
 
 Vince Catchem is a **famous** Pokemon trainer. Recently he has become very curious with the nature of Pokemon and has hired you, a young budding statistician, to conduct do a research project. 
 
-Vince has collected data on all 802 types of Pokemon, and has inputted his data into the <a href="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/challenge.csv"> challenge.csv </a> file (right click to download to home desktop). The dataset contains 802 obervations and  variables, Vince has also noted that there is a more regourously detailed dataset that can be found <a href="https://www.kaggle.com/rounakbanik/pokemon"> here </a>:
+Vince has collected data on all 802 types of Pokemon, and has inputted his data into the <a href="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/challenge.csv"> challenge.csv </a> file (right click to download to home desktop). Vince has also noted that there is a more detailed dataset that can be found <a href="https://www.kaggle.com/rounakbanik/pokemon"> here </a>. The dataset contains 802 obervations and 12 variables:
 * **Name:** Name of Pokemon 
 * **Type:** Type of Pokemon 
 * **Height:** Height of pokemon in **meters**
@@ -27,7 +27,7 @@ For this question Vince is trying to understand how all attributes of a pokemon 
 * **Are legendary pokemon significantly sttronger than normal pokemon?** 
 Vince has discovered a new type of pokemon reffered to as 'legendary' that he beleives significantly stronger than regular pokemon. He would like to know if the data provides sufficient evidence of his hypothesis. 
 
-* **Emotional Pikachu Pikachu ** 
+* **Emotional Pikachu** 
 Vince's pickachu has base happiness of 120. He would like to know if this can be considered a **significantly** 'high' or 'low' happiness score. 
 
 * **Is there an assosciation between a Pokemon's weight and height?** 
@@ -36,9 +36,9 @@ Vince has noticed that pokemon come in all different shapes and sizes, he is cur
 * **Have pokemon from new generations become stronger/weaker than those in older generations?**
 Pokemon are released in generations. Vince is curious if there is a significant difference between the attribues of pokemon based on their generation. 
 
-For your report Vince asks that you explore 2 (or more) of these questions. You are also **encouraged** to raise questions on your own that you may answer in your report. Your report may be delivered in **any** format (pdf, word document, video, website, etc.). Your report will be judged on a 20 point scale made up of two categories:
-* **Aesthetic** (10 points)
+For your report Vince asks that you explore 2 (or more) of these questions. You are also **encouraged** to raise questions on your own that you may answer/explore in your report. Your report may be delivered in **any** format (pdf, word document, video, website, etc.). You will be judged on a 20 point scale made up of two categories:
 * **Mathematical and statistical arguemntation** (10 points)
+* **Aesthetic** (10 points)
 
 Good luck, and have fun!
 
