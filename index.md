@@ -1,6 +1,6 @@
-<p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/trainer.png">   </p>
-
 Vince Catchem is a **famous** Pokemon trainer. Recently he has become very curious with the nature of Pokemon and has hired you, a young budding statistician, to conduct do a research project. 
+
+<p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/trainer.png">   </p>
 
 Vince has collected data on all 802 types of Pokemon, and has inputted his data into the <a href="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/challenge.csv"> challenge.csv </a> file (right click to download to home desktop). Vince has also noted that there is a more detailed dataset that can be found <a href="https://www.kaggle.com/rounakbanik/pokemon"> here </a>. The dataset contains 802 obervations and 12 variables:
 * **Name:** Name of Pokemon 
