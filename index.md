@@ -24,7 +24,7 @@ What makes a pokemon strong? Do some pokemon have higher attributes than other?
 * **Do a pokemon's attributes (attack, defense, weight, height, speed, etc.) vary based on its type?** 
 For this question Vince is trying to understand how all attributes of a pokemon vary based on type. Perhaps 'dragon' pokemon are significantly heavier than 'bug' pokemon. Perhaps 'fire' pokemon have higher attack than 'water' pokemon. 
 
-* **Are legendary pokemon significantly sttronger than normal pokemon?** 
+* **Are legendary pokemon significantly stronger than normal pokemon?** 
 Vince has discovered a new type of pokemon reffered to as 'legendary' that he beleives significantly stronger than regular pokemon. He would like to know if the data provides sufficient evidence of his hypothesis. 
 
 * **Emotional Pikachu** 
