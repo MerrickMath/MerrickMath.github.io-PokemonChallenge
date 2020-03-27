@@ -1,18 +1,18 @@
-Vince Catchem is a **famous** Pokemon trainer. Recently he has become very curious with the nature of Pokemon and has hired you, a young budding statistician, to conduct do a research project. 
+Vince Ketchum is a **famous** Pokemon trainer. Recently he has become very curious about the nature of Pokemon and has hired you, a young, budding statistician, to conduct a research project. 
 
 <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/trainer.png">   </p>
 
-Vince has collected data on all 802 types of Pokemon, and has inputted his data into the <a href="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/challenge.csv"> challenge.csv </a> file (right click to download to home desktop). Vince has also noted that there is a more detailed dataset that can be found <a href="https://www.kaggle.com/rounakbanik/pokemon"> here </a>. The dataset contains 802 obervations and 12 variables:
+Vince has collected data on 802 types of Pokemon, and has inputted his data into the <a href="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/challenge.csv"> challenge.csv </a> file (right click to download to home desktop). Vince has also noted that there is a more detailed dataset that can be found <a href="https://www.kaggle.com/rounakbanik/pokemon"> here </a>. The dataset contains 802 obervations and 12 variables:
 * **Name:** Name of Pokemon 
 * **Type:** Type of Pokemon 
-* **Height:** Height of pokemon in **meters**
+* **Height:** Height of pokemon in **metres**
 * **Weight:** Weight of pokemon in **kilograms**
-* **Capture Rate:** Capture rate for given pokemon
+* **Capture Rate** 
 * **Happiness:** Baseline happiness of pokemon
-* **HP:** Hit points of giving pokemon
-* **Attack:** Base attack of pokemon 
-* **Defense:** Base defense of pokemon 
-* **Speed:** Base speed of pokemon 
+* **HP:** Hit Points of giving pokemon
+* **Attack:** Base Attack of pokemon 
+* **Defense:** Base Defense of pokemon 
+* **Speed:** Base Speed of pokemon 
 * **Generation:** Generation that the pokemon was first introduced
 * **Is_legendary:** If the pokemon is legendary or non-legendary 
 
