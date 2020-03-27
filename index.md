@@ -27,7 +27,7 @@ For this question Vince is trying to understand how all attributes of a Pokémon
 * **Are legendary Pokémon significantly stronger than non-legendary pokemon?** 
 Vince has discovered a new type of Pokémon referred to as 'legendary' that he believes are significantly stronger than regular Pokémon. He would like to know if the data provides sufficient evidence of his hypothesis. 
 
-* **Emotional Pikachu** 
+* **Emotional Pikachu:** 
 Vince's Pikachu has base happiness of 120. He would like to know if this can be considered a **significantly** 'high' or 'low' happiness score. 
 
 * **Is there an association between a Pokémon's weight and height?** 
