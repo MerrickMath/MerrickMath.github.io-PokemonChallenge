@@ -46,5 +46,5 @@ Good luck, and have fun!
   <iframe src="https://www.youtube.com/embed/6xKWiCMKKJg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="frame"></iframe> </p>
 
 ### Challenge submision
-* <a href="https://docs.google.com/forms/d/e/1FAIpQLSegZq72ZhhtqqjQ7-P_QqFw-IQWCdHQiQNFpKKlrMBqbSFJBQ/viewform?usp=sf_link"> Submission dropbox </a>: The Pokémon challenge is due April 13. You are limited to one submission. Good luck and have fun!
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSegZq72ZhhtqqjQ7-P_QqFw-IQWCdHQiQNFpKKlrMBqbSFJBQ/viewform?usp=sf_link"> Submission dropbox </a>: The Pokémon challenge is due April 20. You are limited to one submission. Good luck and have fun!
 
