@@ -47,4 +47,4 @@ Good luck, and have fun!
 
 ### Challenge submision
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSegZq72ZhhtqqjQ7-P_QqFw-IQWCdHQiQNFpKKlrMBqbSFJBQ/viewform?usp=sf_link"> Submission dropbox </a>: The Pokémon challenge is due April 20. You are limited to one submission. Good luck and have fun!
-
+* Submission are now **closed**. Check out the winning report (here)[https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/trainer.png].
