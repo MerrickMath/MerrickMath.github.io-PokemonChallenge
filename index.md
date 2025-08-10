@@ -2,18 +2,16 @@ Vince Ketchum is a **famous** Pokémon trainer. Recently he has become very curi
 
 <p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/trainer.png">   </p>
 
-  <p align="center">
-    <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/trainer.png" alt="Trainer Vince Ketchum">
-  </p>
 
-  <p>
-    Vince has collected data on 802 species of Pokémon and has entered his data into the
-    <a href="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/challenge.csv">challenge.csv</a>
-    file (right-click to download to your home desktop). Vince has also noted that there is a more detailed dataset that can be found
-    <a href="https://www.kaggle.com/rounakbanik/pokemon">here</a>.
-  </p>
 
-  <p>The dataset contains 802 observations and 12 variables:</p>
+<p>
+   Vince has collected data on 802 species of Pokémon and has entered his data into the
+   <a href="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/challenge.csv">challenge.csv</a>
+   file (right-click to download to your home desktop). Vince has also noted that there is a more detailed dataset that can be found
+   <a href="https://www.kaggle.com/rounakbanik/pokemon">here</a>.
+ </p>
+ 
+ <p>The dataset contains 802 observations and 12 variables:</p>
   <ul>
     <li><strong>Name:</strong> Name of Pokémon</li>
     <li><strong>Type:</strong> Type of Pokémon</li>
