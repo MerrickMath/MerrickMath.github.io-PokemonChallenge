@@ -1,23 +1,6 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>Pokémon Challenge Overview</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-    /* Optional: mild styling for the referenced classes */
-    .prof { max-width: 220px; height: auto; }
-    .frame { width: 100%; max-width: 720px; height: 405px; }
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; padding: 1rem; color: #111; }
-    h1, h2, h3 { line-height: 1.25; }
-    img { display: block; margin: 0 auto; }
-    iframe { display: block; margin: 0.75rem auto; border: 0; }
-    ul { padding-left: 1.2rem; }
-  </style>
-</head>
-<body>
+Vince Ketchum is a **famous** Pokémon trainer. Recently he has become very curious about the nature of Pokémon and has hired you, a young, budding statistician, to conduct a research project. 
 
-  <p>Vince Ketchum is a <strong>famous</strong> Pokémon trainer. Recently, he has become very curious about the nature of Pokémon and has hired you, a young, budding statistician, to conduct a research project.</p>
+<p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/trainer.png">   </p>
 
   <p align="center">
     <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-PokemonChallenge/trainer.png" alt="Trainer Vince Ketchum">
@@ -108,4 +91,3 @@
   </ul>
 
 </body>
-</html>
